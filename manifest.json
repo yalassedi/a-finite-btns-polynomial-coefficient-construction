@@ -53,6 +53,6 @@
     "code": "MIT License; see LICENSE-CODE-MIT.txt",
     "data_outputs_documentation": "Creative Commons Attribution 4.0 International; see LICENSE-DATA-CC-BY-4.0.txt"
   },
-  "repository": "https://github.com/10.5281/zenodo.20366023/a-finite-btns-polynomial-coefficient-construction",
+  "repository": "https://github.com/yalassedi/a-finite-btns-polynomial-coefficient-construction",
   "zenodo_doi": "10.5281/zenodo.20366023"
 }
